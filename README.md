@@ -1,39 +1,64 @@
-<h1 align="center"> Maciek | CS Student & Tech Enthusiast 👨‍💻</h1>
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Maciek — Software, Data and AI. Curiosity, put into code." />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&random=false&width=435&lines=Computer+Science+Student+%7C+21+y.o." alt="Typing SVG"/>
-</div>
+<p align="center">
+  <strong>Computer Science graduate · Master's student at WAT · Focused on AI</strong>
+</p>
 
-## 🎓 About Me
-Computer Science student at WAT (Wojskowa Akademia Techniczna), focusing on Data Science and Machine Learning. Currently exploring the vast world of software development and AI while building practical skills through hands-on projects.
+<p align="center">
+  <a href="https://www.linkedin.com/in/maciej-klimiuk-bb74282b5/">LinkedIn ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#about">About</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#toolkit">Toolkit</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#beyond-the-keyboard">Beyond the keyboard</a>
+</p>
 
-## 🛠️ Technical Stack
-```
-Languages:       Python, SQL, C++, Java, C 
-Tools:           Git, Jupyter Notebook, JetBrains Stack
-Databases:       MySQL
-Learning:        Machine Learning, Data Science Libraries, Backtesting Strategy
-```
+<br>
 
-## 📊 Recent Projects
-- **Mandrill** -  Project focuses on the classification and analysis of textual data related to "Mandrill"
-- **MLTradingBot** - Trading bot for crypro and SPY
+## About
 
-## 🔛 Currently Learning
-- Machine Learning & Data Science
-- Software Development Practices
-- NLP Models
+Hey, I'm **Maciek** — a Computer Science engineering graduate, now pursuing a **master's degree at WAT** (Military University of Technology) in Warsaw.
 
-## ⚡ Interests
-**Running** • **Car Detailing** • **3D printing** • **Coding** • **Calistenic**
+**AI is my main focus.** I'm especially interested in machine learning, natural language processing, and turning data into something useful. I like understanding how things work, then putting that knowledge into practice through code.
 
-<div align="center">
-  <p>Open to collaboration and learning opportunities!</p>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/maciej-klimiuk-bb74282b5/)
-  
-  <p> 
-    Visitor count<br>
-    <img src="https://profile-counter.glitch.me/userofpi/count.svg" />
-  </p>
-</div>
+### What I'm exploring
+
+| Area | What draws me in |
+| :--- | :--- |
+| **Artificial intelligence** | Understanding models and finding practical ways to use them. |
+| **Data science** | Exploring data, testing ideas, and making sense of the results. |
+| **Natural language processing** | How models work with language and what we can build with them. |
+
+<br>
+
+## Toolkit
+
+**Languages**  
+`Python` &nbsp; `SQL` &nbsp; `C++` &nbsp; `Java` &nbsp; `C`
+
+**Development & analysis**  
+`Git` &nbsp; `Jupyter Notebook` &nbsp; `JetBrains IDEs`
+
+**Databases**  
+`MySQL`
+
+<br>
+
+## Beyond the keyboard
+
+Triathlon, calisthenics, car detailing, and 3D printing.
+
+Different ways to keep moving, make things, and pay attention to the details.
+
+<br>
+
+---
+
+<p align="center">
+  <strong>Have an interesting idea? Let's talk.</strong><br>
+  Open to conversations about AI, learning, and collaboration.<br><br>
+  <a href="https://www.linkedin.com/in/maciej-klimiuk-bb74282b5/">Connect on LinkedIn ↗</a>
+</p>
